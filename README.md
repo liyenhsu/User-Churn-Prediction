@@ -1,1 +1,1 @@
-# User-Churn-Prediction
+# User Churn Prediction
